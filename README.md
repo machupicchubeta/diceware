@@ -3,7 +3,7 @@
 ## References
 - http://world.std.com/~reinhold/diceware.html
 - http://www.hyuki.com/diceware/
--
+
 ### What Is A Passphrase?
 > A passphrase is a bunch of words and characters that you type in to your computer to let it know for sure that the person typing is you. Most security programs allow you to enter a passphrase instead of just a short password for added protection against attackers. Some programs also use your passphrase to form a cryptographic key to encrypt your data.
 
